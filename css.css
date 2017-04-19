@@ -1,0 +1,10 @@
+#X{
+    height: 8px;
+    width: 8px;
+    background: black;
+    border:2px dodgerblue outset;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+
+}
